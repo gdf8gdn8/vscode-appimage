@@ -1,0 +1,14 @@
+# Build output directory
+/out/
+*.AppImage
+
+# Temporary files & logs
+*.log
+.DS_Store
+
+# IDE & Editor settings
+.vscode/
+.idea/
+
+# Docker build temporary files
+.docker/
