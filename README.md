@@ -72,3 +72,9 @@ If running `./out/VSCode-x86_64.AppImage throws an error regarding libfuse.so.2 
 - Install FUSE on Fedora/RHEL: sudo dnf install fuse-libs
 - Alternatively, run the AppImage extracted:
  `./out/VSCode-x86_64.AppImage --appimage-extract-and-run`
+
+## License & AI Provenance
+
+This project is licensed under the [MIT License](LICENSE).
+
+This repository contains AI-assisted code generation. For full disclosures on human vs. AI authorship, copyright status, and third-party dependency tracking, see [`PROVENANCE.md`](PROVENANCE.md) and [`THIRD_PARTY_LICENSES.md`](THIRD_PARTY_LICENSES.md).

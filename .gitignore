@@ -1,5 +1,5 @@
 # Build output directory
-/out/
+out/
 *.AppImage
 
 # Temporary files & logs
